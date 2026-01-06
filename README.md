@@ -1,4 +1,4 @@
-# DC101_Game_LastnameFirstname
+# DC101_Game_SayasAdrian
 TYPING SPEED TEST
 
 This is a simple typing speed test on which you only need to type the sentence that will show on your pc.
